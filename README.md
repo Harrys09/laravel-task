@@ -1,9 +1,11 @@
 # Assessment Task
 
 ## Information
-1.) Please rename .env.example => .env
-2.) Run this command in your project directory => php artisan key:generate
-3.) Then run test whatever you want :)
+1.) Clone this project where you want to clone.
+2.) Run Composer update in your project directory.
+3.) Please rename .env.example => .env
+4.) Run this command in your project directory => php artisan key:generate
+5.) Then run test whatever you want :)
 
 ## Time
 The alloted time frame for this task is 2 days.
