@@ -1,5 +1,10 @@
 # Assessment Task
 
+## Information
+1.) Please rename .env.example => .env
+2.) Run this command in your project directory => php artisan key:generate
+3.) Then run test whatever you want :)
+
 ## Time
 The alloted time frame for this task is 2 days.
 
